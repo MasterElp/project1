@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "ml\\Scripts\\python.exe"
+    "python.pythonPath": "ml\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
