@@ -139,3 +139,5 @@ cython_debug/
 ml/
 graph/
 generated/
+*.csv
+*.png
