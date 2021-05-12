@@ -141,3 +141,4 @@ graph/
 generated/
 *.csv
 *.png
+logs/
